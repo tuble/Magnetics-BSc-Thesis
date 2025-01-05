@@ -1,0 +1,6 @@
+minimalmodbus==2.1.1
+pyserial==3.5
+PyVISA==1.14.1
+rd6006==0.2
+setuptools==75.6.0
+typing_extensions==4.12.2

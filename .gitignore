@@ -1,0 +1,12 @@
+# vim temp
+*.swp
+*.swo
+*.sw~
+
+*.backup
+*.un~
+
+# python bytecode
+*.pyc
+*.pyo
+__pycache__/
